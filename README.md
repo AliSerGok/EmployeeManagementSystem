@@ -25,6 +25,16 @@
 
 ![image](https://github.com/AliSerGok/EmployeeManagementSystem/assets/98125147/e8ff93fa-bf22-4a83-9fb3-f9e4690300fd)
 
+##### Members with the 'admin' role will additionally see the 'Systems' and 'Add Employee' buttons on the home page. Members with the 'admin' role are authorized to add, update and delete 'employees'.
+
+
+![image](https://github.com/AliSerGok/EmployeeManagementSystem/assets/98125147/2e0e489c-0186-47e3-ab5f-bb95b27a7733)
+
+![image](https://github.com/AliSerGok/EmployeeManagementSystem/assets/98125147/141665c8-1ec7-44e2-ae0a-9a56de6262f5)
+
+![image](https://github.com/AliSerGok/EmployeeManagementSystem/assets/98125147/17f66d1e-a0f4-4953-9499-c17d93e9f05f)
+
+![image](https://github.com/AliSerGok/EmployeeManagementSystem/assets/98125147/9e340d4c-a083-490f-bcf8-a49c4915b757)
 
 
 
