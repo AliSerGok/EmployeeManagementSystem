@@ -59,7 +59,8 @@
   
   ## ` 📊 UML Diagram`
   
-  ![UML Diagram](https://user-images.githubusercontent.com/58560920/222063344-346a2743-12f8-4d7c-868d-4d1417bc02b3.png)
+  ![UML Diagram](![demosecurity](https://github.com/AliSerGok/EmployeeManagementSystem/assets/98125147/2574b4eb-1745-4ffe-9842-6ba3aae81437)
+)
 
 ---
 
