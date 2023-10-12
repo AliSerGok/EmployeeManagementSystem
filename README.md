@@ -36,16 +36,15 @@
 
 Mert MURAT
   
-E-Mail - [mert.murat2@hotmail.com](mailto:mert.murat2@hotmail.com)
+E-Mail - [alisergok@gmail.com](mailto:alisergok@gmail.com)
 
-Linkedin - [linkedin.com/in/mert-murat-b20145123/](https://www.linkedin.com/in/mert-murat-b20145123/)
+Linkedin - [https://www.linkedin.com/in/ali-ser-gok-255650223/](https://www.linkedin.com/in/ali-ser-gok-255650223/)
 
-Project Link: https://github.com/MertMURAT/SpringBootProject
-
+Project Link: https://github.com/AliSerGok/EmployeeManagementSystem.git
 ---
 
 
-Project Link: https://github.com/MertMURAT/SpringBootProject
+Project Link: https://github.com/AliSerGok/EmployeeManagementSystem.git
 
 ---
 
