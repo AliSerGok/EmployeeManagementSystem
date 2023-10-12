@@ -34,7 +34,7 @@
 
 ## ` 📧 Contact`
 
-Mert MURAT
+Ali Şer Gök
   
 E-Mail - [alisergok@gmail.com](mailto:alisergok@gmail.com)
 
