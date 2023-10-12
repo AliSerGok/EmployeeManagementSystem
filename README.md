@@ -1,6 +1,5 @@
 
-<div align="center"><h1> :sparkles: E-Commerce Project :sparkles: </h1> </div>
-<div align="center"><h2> 🚥 E-TİCARET PROJESİ 🚥 </h2> </div>
+<div align="center"><h1> :sparkles: Employee Management Project :sparkles: </h1> </div>
 
 
 ## Technology stacks
@@ -21,10 +20,7 @@
 
  - [x] Maven
 
- 
 
-<b><h2> :star: Click for Backend Codes: :point_right: <a href="https://github.com/MertMURAT/SpringBootProject/tree/main/springBoot">BACKEND CODE </a> :point_left: </h2></b> 
-``` Backend Kodları İçin Tıklayınız: ```
 
 
 ---
@@ -59,8 +55,8 @@
   
   ## ` 📊 UML Diagram`
   
-  ![UML Diagram](![demosecurity](https://github.com/AliSerGok/EmployeeManagementSystem/assets/98125147/2574b4eb-1745-4ffe-9842-6ba3aae81437)
-)
+  ![UML Diagram]![demosecurity](https://github.com/AliSerGok/EmployeeManagementSystem/assets/98125147/ac046e97-2ea1-4166-acc1-8a90037acabe)
+
 
 ---
 
@@ -91,6 +87,11 @@ Mert MURAT
 E-Mail - [mert.murat2@hotmail.com](mailto:mert.murat2@hotmail.com)
 
 Linkedin - [linkedin.com/in/mert-murat-b20145123/](https://www.linkedin.com/in/mert-murat-b20145123/)
+
+Project Link: https://github.com/MertMURAT/SpringBootProject
+
+---
+
 
 Project Link: https://github.com/MertMURAT/SpringBootProject
 
