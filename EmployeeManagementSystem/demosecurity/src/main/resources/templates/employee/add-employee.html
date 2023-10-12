@@ -1,0 +1,30 @@
+<!DOCTYPE Html>
+<Html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to the home page</title>
+</head>
+<body>
+<h2>Add an Employee Page</h2>
+Authorized name: <span sec:authentication="principal.username"></span><br><br>
+<hr>
+
+
+    <form action="#" th:action="@{/employee/addEmployee}" th:object="${employee}" method="POST">
+        <input type="hidden" th:field="*{id}"/>
+        Employee Name: <input type="text" th:field="*{firstName}" placeholder="Employee Name"/><br><br>
+        Employee Lastname: <input type="text" th:field="*{lastName}" placeholder="Employee Lastname"/><br><br>
+        Employee Email: <input type="text" th:field="*{email}" placeholder="Email"/><br><br>
+
+        <input type="submit" value="Save"/>
+    </form><br><br>
+<a th:href="@{/}" >Back to homepage</a><br><br>
+
+
+<form action="#" th:action="@{/logout}" method="POST">
+    <button type="submit" >Logout</button>
+</form>
+</body>
+
+</Html>

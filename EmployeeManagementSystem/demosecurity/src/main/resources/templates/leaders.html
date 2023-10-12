@@ -1,0 +1,22 @@
+<!DOCTYPE Html>
+<Html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+    <meta charset="UTF-8">
+    <title>Leaders Page</title>
+</head>
+<body>
+<h2>Leaders Page</h2>
+<hr>
+Welcome to Leaders Page
+<div>
+    <a th:href="@{/employee/showList}">Show Employee List</a>
+</div><br><br>
+<a th:href="@{/}" >Back to homepage</a>
+<form action="#" th:action="@{/logout}" method="POST">
+    <button type="submit" >Logout</button>
+</form>
+
+</body>
+
+</Html>
