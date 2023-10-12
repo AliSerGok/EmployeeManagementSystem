@@ -6,19 +6,22 @@
 ## Technology stacks
 
  - [x] Java
+ 
+ - [x] Spring Security
 
- - [x] Spring Boot
+ - [x] Thymeleaf
+
+ - [x] HTML
 
  - [x] Spring Data JPA
 
  - [x] H2 Database
 
+ - [x] Spring MVC
+
  - [x] Maven
 
- - [x] Postman
-
- - [x] Swagger
-
+ 
 
 <b><h2> :star: Click for Backend Codes: :point_right: <a href="https://github.com/MertMURAT/SpringBootProject/tree/main/springBoot">BACKEND CODE </a> :point_left: </h2></b> 
 ``` Backend Kodları İçin Tıklayınız: ```
