@@ -1,6 +1,27 @@
 
 <div align="center"><h1> :sparkles: Employee Management Project :sparkles: </h1> </div>
 
+## Technology stacks
+
+ - [x] Java
+ 
+ - [x] Spring Security
+
+ - [x] Thymeleaf
+
+ - [x] HTML
+
+ - [x] Spring Data JPA
+
+ - [x] H2 Database
+
+ - [x] Spring MVC
+
+ - [x] Maven
+
+
+---
+
 #### The file contains SQL codes (SQL file)(EmployeeManagementSystem/spring-mvc-security-jdbc/spring-mvc-security-jdbc/sql-scripts).
 #### SQL codes will create three different tables named 'employee', 'members', 'roles'.
 #### Each member in the 'members' table can have at least one of the roles 'employee', 'manager' and 'admin'.
@@ -39,29 +60,6 @@
 
 ![image](https://github.com/AliSerGok/EmployeeManagementSystem/assets/98125147/9e340d4c-a083-490f-bcf8-a49c4915b757)
 
-
-
-
-## Technology stacks
-
- - [x] Java
- 
- - [x] Spring Security
-
- - [x] Thymeleaf
-
- - [x] HTML
-
- - [x] Spring Data JPA
-
- - [x] H2 Database
-
- - [x] Spring MVC
-
- - [x] Maven
-
-
----
 
   
   ## ` 📊 UML Diagram`
