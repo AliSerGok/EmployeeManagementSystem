@@ -4,6 +4,9 @@
 #### The file contains SQL codes (SQL file)(EmployeeManagementSystem/spring-mvc-security-jdbc/spring-mvc-security-jdbc/sql-scripts).
 #### SQL codes will create three different tables named 'employee', 'members', 'roles'.
 #### Each member in the 'members' table can have at least one of the roles 'employee', 'manager' and 'admin'.
+# !!! USER NAMES ARE MEMBER NAMES AND THEIR PASSWORD IS 'fun123' !!!
+![image](https://github.com/AliSerGok/EmployeeManagementSystem/assets/98125147/1047d16f-e6f0-428b-8e6a-ab0d19fb3d75)
+
 ![image](https://github.com/AliSerGok/EmployeeManagementSystem/assets/98125147/729d7d86-b1fc-4af8-bb35-1eabc305b07f)
 #### Members with the 'employee' role can only log out by pressing the "logout" button on the homepage after logging in. Members with this role are prevented from going to "systems", "leaders" and "Add Employee" pages. 
 
